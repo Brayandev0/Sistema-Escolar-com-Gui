@@ -16,6 +16,14 @@ e a senha é a data de nascimento
 - **As entradas de dados foram tratadas para receber apenas Números inteiros**
 - **Caracteres como "=", ";", "?" São proibidos**
 
+## Tecnologias Utilizadas 
+- **Mysql**
+- **SHA512**
+- **PySide6**
+- **Python3.12.3**
+- **QtDesigner**
+- **Biblioteca sys**
+
 ## Funcionalidades do Portal de Accesso Escolar 
 - **Logs Tratando diversos Erros, e exibindo esses erros na tela de forma**
 - **Função para ver a senha digitada**
@@ -31,6 +39,7 @@ e a senha é a data de nascimento
 - **Calcula e exibe a nota do aluno**
 - **Mostra automaticamente um Welcome com o nome do Aluno**
 - **Botão retornar e sair**
+- **Exibe o Semestre Atual do aluno**
 
 ## Tela do Professor
 ![Captura de tela_2024-07-19_19-36-36](https://github.com/user-attachments/assets/d0d0f635-c39a-42ac-946a-0e56320dc6fc)
@@ -46,3 +55,24 @@ e a senha é a data de nascimento
 
 ## Tela do Professor em funcionamento 
   ![Captura de tela_2024-07-19_20-03-09](https://github.com/user-attachments/assets/9b6648a1-a234-46f5-b8e2-bbfeea35c614)
+
+## Menu de Ajuda 
+![Captura de tela_2024-07-19_20-05-56](https://github.com/user-attachments/assets/df24c79b-137c-442b-aa88-05e087da0650)
+
+## Funcionalidades 
+- **No menu há uma opção de "I do not know my password", nesta opção sera explicado que a senha é a data de nascimento no formato "dd/mm/year"**
+- **No menu há uma opção de "I do not know my matriculation Code",nesta opção sera explicado para o Aluno comparecer a secretaria da escola**
+
+
+## Telas de erro do Portal de Accesso
+- **Foram colocados apenas 3 Telas de Erros para não prejudicar a visibilidade**
+![Captura de tela_2024-07-19_20-16-46](https://github.com/user-attachments/assets/77b4e3ff-fefb-4dc0-8c19-37b60686a41a)
+![Captura de tela_2024-07-19_20-17-17](https://github.com/user-attachments/assets/65d2fc0d-c31b-4735-a70e-ef5931bc86ca)
+![Captura de tela_2024-07-19_20-17-58](https://github.com/user-attachments/assets/a99d8fac-0dc1-43b9-9bb0-f250f761de1d)
+
+## Telas de erro da Tela de Professores
+- **Foram colocados apenas 3 Telas de Erros para não prejudicar a visibilidade**
+![Captura de tela_2024-07-19_20-41-27](https://github.com/user-attachments/assets/06baca26-6d11-4d8a-8786-34c5ccc6a4fa)
+![Captura de tela_2024-07-19_20-42-00](https://github.com/user-attachments/assets/59d10c60-125d-4845-9a55-8d034f88a1a0)
+![Captura de tela_2024-07-19_20-42-23](https://github.com/user-attachments/assets/1bd173e4-dfb9-4c2d-baf8-72ac1dc095a7)
+
