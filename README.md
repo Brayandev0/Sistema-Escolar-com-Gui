@@ -82,4 +82,7 @@ e a senha é a data de nascimento
 **Tabela das Notas**
 ![Captura de tela_2024-07-19_20-46-05](https://github.com/user-attachments/assets/ca58f767-5f44-4a2d-ae56-d4381b9a8502)
 
-**Observação Todos os dados tem ligação entre si ,Caso algum seja apagado sera ocorrido uma operação Cascade e o id da outra tabela também sera apagado** 
+## Observação
+- **Todos os dados registrados na DB tem ligação entre si ,Caso algum seja apagado sera ocorrido uma operação Cascade e o id da outra tabela também sera apagado** 
+- **Todos os dados são ficticios e não pertencem a nínguem**
+  
