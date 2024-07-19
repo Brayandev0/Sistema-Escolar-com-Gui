@@ -76,3 +76,10 @@ e a senha é a data de nascimento
 ![Captura de tela_2024-07-19_20-42-00](https://github.com/user-attachments/assets/59d10c60-125d-4845-9a55-8d034f88a1a0)
 ![Captura de tela_2024-07-19_20-42-23](https://github.com/user-attachments/assets/1bd173e4-dfb9-4c2d-baf8-72ac1dc095a7)
 
+## Como os Dados ficam Salvos ( Tela DBeaver )
+**Tabela dos Estudantes**
+![Captura de tela_2024-07-19_20-45-49](https://github.com/user-attachments/assets/845b0409-0371-4340-9ac2-05c9590c0110)
+**Tabela das Notas**
+![Captura de tela_2024-07-19_20-46-05](https://github.com/user-attachments/assets/ca58f767-5f44-4a2d-ae56-d4381b9a8502)
+
+**Observação Todos os dados tem ligação entre si ,Caso algum seja apagado sera ocorrido uma operação Cascade e o id da outra tabela também sera apagado** 
