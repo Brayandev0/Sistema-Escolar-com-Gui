@@ -25,7 +25,7 @@ e a senha é a data de nascimento
 - **Biblioteca sys**
 
 ## Funcionalidades do Portal de Accesso Escolar 
-- **Logs Tratando diversos Erros, e exibindo esses erros na tela de forma**
+- **Logs Tratando diversos Erros, e exibindo esses erros na tela de forma limpa e intuitiva**
 - **Função para ver a senha digitada**
 - **Limitação de caracteres nos inputs**
 - **Identifica Após o Login Quais são Alunos e Professores e os encaminha para a pagina especifica**
