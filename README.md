@@ -87,4 +87,4 @@ e a senha é a data de nascimento
 ## Observação
 - **Todos os dados registrados na DB tem ligação entre si ,Caso algum seja apagado sera ocorrido uma operação Cascade e o id da outra tabela também sera apagado** 
 - **Todos os dados são ficticios e não pertencem a nínguem**
-  
+- **Todos os dados sensiveis sao criptografados com um tipo de criptografia segura**
